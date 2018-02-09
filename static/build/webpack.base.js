@@ -16,7 +16,8 @@ module.exports = {
             'util': resolve(__dirname,'../util'),
             'views': resolve(__dirname,'../views'),
             'components': resolve(__dirname,'../components'),
-            'config': resolve(__dirname,'../config')
+            'config': resolve(__dirname,'../config'),
+            'api': resolve(__dirname,'../api')
         }
     },
     module: {
