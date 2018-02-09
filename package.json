@@ -12,8 +12,10 @@
   "keywords": [
     "nodejs",
     "koa2",
-    "react"
+    "react",
+    "docker"
   ],
+  "repository": "https://github.com/stephonCzy/koa_react",
   "author": "czy",
   "license": "ISC",
   "dependencies": {
@@ -21,7 +23,8 @@
     "koa": "^2.4.1",
     "mysql": "^2.15.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.2.5",
